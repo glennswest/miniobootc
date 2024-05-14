@@ -1,4 +1,5 @@
 #!/bin/bash
+# https://gist.github.com/sozercan/e089f34fd148156facea27583c12e2e0
 
 # An set of disks to ignore from partitioning and formatting
 BLACKLIST="/dev/sda"
